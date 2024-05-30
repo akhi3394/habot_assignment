@@ -1,0 +1,40 @@
+.how-it-works-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+  
+  .how-it-works-step {
+    background-color: #e9f5fe;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .how-it-works-step p {
+    margin: 0;
+    color: #333;
+  }
+  /* styles.css */
+
+.banner {
+    background-color: #e6f7ff; /* Light blue background */
+    padding: 20px;
+    color: #000; /* Black text color */
+  }
+  
+  .text h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .get-verified-btn {
+    background-color: #ff9900; /* Orange background */
+    color: #fff; /* White text color */
+    border: none;
+  }
+  
+  .get-verified-btn:hover {
+    background-color: #e68a00; /* Darker orange on hover */
+  }
+  

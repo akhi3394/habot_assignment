@@ -1,0 +1,33 @@
+.buyer-supplier-section {
+    background-color: #1A3B5D;
+    color: white;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .video-wrapper {
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .buyer-text {
+    color: #E94E77;
+  }
+  
+  .supplier-text {
+    color: #FBBF24;
+  }
+  
+  .highlight {
+    color: #E94E77;
+  }
+  
+  ul {
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
